@@ -7,8 +7,8 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I'm a PhD Candidate in Crop Production and Phsyiology & Environmental Science in the Iowa State University Agronomy Department.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+With an MS in Human-Computer Interaction, my research combines the quantitative and qualitative, using remote sensing and machine learning to analyze subfield crop productivity, as well as incorporating qualitative methods like interviews, usability studies, affinity diagramming (to name a few) to ensure that data and tools are useful and usable for intended audiences.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+If you'd like to learn more about my research or discuss opportunities, feel free to contact me at mattnowatz@gmail.com.

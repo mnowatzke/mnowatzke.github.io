@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Matt Nowatzke
+description: Agriculture | Human-Centered Design | Digital Ag
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: mattnowatz@gmail.com
 
 
 highlighter: rouge
@@ -19,10 +19,10 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
-github: "#"
+linkedin: "mattnowatzke"
+github: "mnowatzke"
 researchgate: "#"
-orcid: "#"
+orcid: "0000-0003-4415-977X"
 
 highlighter: rouge
 markdown: kramdown
