@@ -3,8 +3,8 @@
 title: Matt Nowatzke
 description: Agriculture | Human-Centered Design | Digital Ag
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: #/gradfolio #name of GitHub repository
+url: "https://mnowatzke.github.io" #custom url to be used instead of GitHub repository
 email: mattnowatz@gmail.com
 
 
