@@ -7,8 +7,6 @@ profile:
 published: true
 ---
 
-I'm a PhD Candidate in Crop Production and Physiology & Environmental Science at Iowa State University in the Department of Agronomy.
+My work combines the quantitative and qualitative with a PhD in Agronomy & Environmental Science and an MS in Human-Computer Interaction. I leverage remote sensing data sources and machine learning to analyze cropping systems for productivity and environmental impact. I also incorporate methods like interviews, usability studies, and affinity diagramming (to name a few) to ensure that data and tools are useful and usable for intended audiences.
 
-With an MS in Human-Computer Interaction, my research combines the quantitative and qualitative, using remote sensing and machine learning to analyze subfield crop productivity, as well as incorporating qualitative methods like interviews, usability studies, affinity diagramming (to name a few) to ensure that data and tools are useful and usable for intended audiences.
-
-If you'd like to learn more about my research or discuss opportunities, feel free to contact me at mattnowatz@gmail.com.
+If you'd like to learn more about my work or discuss opportunities, feel free to contact me at mattnowatz@gmail.com or find me on LinkedIn.
