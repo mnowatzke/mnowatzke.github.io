@@ -26,8 +26,8 @@ initially recruited a well-known farmer-to-farmer learning organization, and aft
 11 participants from 10 farming operations completed the 90 minutes interviews. Interviews focused on the tasks, tools, and people
 involved in diversifying their operations.
 
-![image](images/HPA-Process-Diagram.png)
+![image](HPA-Process-Diagram.png "research methods process")
 
 Interviews were then transribed and prominent quotes (n=469) were transferred to sticky notes. As a group the research team (2x agronomists, engineer, sociologist, myself) used affinity diagramming to group the sticky notes into similar categories (n=44). A second grouping was then done, putting similar groups together to identify 12 overarching themes.
 
-![image](images/affin-diagram.png)
+![image](affin-diagram.png "affinity diagram session")
