@@ -36,7 +36,7 @@
 .projectTile a span {
   display: flex;
   justify-content: center;
-  color: $text-color ;
+  color: $proj-text-color ;
   @media (prefers-color-scheme: dark) {
     color: $text-color-dark;
   }
