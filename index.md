@@ -7,6 +7,6 @@ profile:
 published: true
 ---
 
-My work combines the quantitative and qualitative with a PhD in Agronomy & Environmental Science and an MS in Human-Computer Interaction. I leverage remote sensing data sources and machine learning to analyze cropping systems for productivity and environmental impact. I also incorporate methods like interviews, usability studies, and affinity diagramming (to name a few) to ensure that data and tools are useful and usable for intended audiences.
+I do data science and modelling for sustainable/regenerative agriculture. I'm also trained in human-computer interaction/user research and like to dabble in game development, watercolors, am an avid reader, gardener, outdoor enthusiast, and father + husband.
 
 If you'd like to learn more about my work or discuss opportunities, feel free to contact me at mattnowatz@gmail.com or find me on LinkedIn.
